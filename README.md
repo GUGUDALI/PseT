@@ -1,2 +1,2 @@
 # PseT
-An open source processor priority editing application
+An open source lightweight processor priority editing application
