@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSet", "PSet\PSet.csproj", "{378E8E21-68EA-4C61-8317-A1F13DC4352E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{378E8E21-68EA-4C61-8317-A1F13DC4352E}.Debug|x64.ActiveCfg = Debug|x64
+		{378E8E21-68EA-4C61-8317-A1F13DC4352E}.Debug|x64.Build.0 = Debug|x64
+		{378E8E21-68EA-4C61-8317-A1F13DC4352E}.Debug|x86.ActiveCfg = Debug|x86
+		{378E8E21-68EA-4C61-8317-A1F13DC4352E}.Debug|x86.Build.0 = Debug|x86
+		{378E8E21-68EA-4C61-8317-A1F13DC4352E}.Release|x64.ActiveCfg = Release|x64
+		{378E8E21-68EA-4C61-8317-A1F13DC4352E}.Release|x64.Build.0 = Release|x64
+		{378E8E21-68EA-4C61-8317-A1F13DC4352E}.Release|x86.ActiveCfg = Release|x86
+		{378E8E21-68EA-4C61-8317-A1F13DC4352E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {812C7444-E8C8-4CCE-ADAF-37F7BA5CA3ED}
+	EndGlobalSection
+EndGlobal
